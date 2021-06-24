@@ -1,0 +1,20 @@
+body{
+    background-color:cadetblue;
+    color: gold;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+.objects{
+    color: red;
+    font-size: 18px;
+}
+
+#webcam_display, #webcam_output{
+    border: 2px dashed gold;
+    width: 350px;
+    height: 300px;
+}
